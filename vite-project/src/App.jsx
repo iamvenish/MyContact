@@ -5,10 +5,12 @@ import react from "react";
 import Card from "./card";
 import contacts from "./contact";
 // import Note from "./Note";
+import Avatar from "./avatar";
 function App() {
   return (
     <div>
       <h1 className="heading">My Contacts</h1>
+      <Avatar img="src/IMG_20220114_180312_622.jpg" />
       <Card
         name={contacts[0].name}
         img={contacts[0].imgURL}

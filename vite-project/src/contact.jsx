@@ -1,6 +1,6 @@
 const contacts = [
   {
-    name: "Venish",
+    name: "venish",
     imgURL: "src/IMG_20220114_180312_622.jpg",
     phone: "+919825641854",
     email: "Venishdpatel2602@gmail.com",
